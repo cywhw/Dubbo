@@ -5,15 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>user-server-provider</artifactId>
+    <artifactId>api-service</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-
     <dependencies>
         <dependency>
-            <groupId>org.example</groupId>
-            <artifactId>api-service</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
         </dependency>
     </dependencies>
+
 </project>

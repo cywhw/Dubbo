@@ -38,8 +38,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../user-server-provider/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api-service/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pojo" />
+      <recent name="" />
+      <recent name="service" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632298998358</updated>
-      <workItem from="1632299001893" duration="936000" />
+      <workItem from="1632299001893" duration="1592000" />
     </task>
     <servers />
   </component>
@@ -59,17 +69,29 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Project_Structure" timestamp="1632300576372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1632300576372" />
     <state x="530" y="55" key="#com.intellij.ide.util.MemberChooser" timestamp="1632299685108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="55" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1632299685108" />
-    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1632299718007">
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1632300501766">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632299718007" />
+    <state x="436" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1632300501766" />
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1632300295427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632300295427" />
     <state x="154" y="0" key="SettingsEditor" timestamp="1632299037356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1632299037356" />
+    <state x="-48" y="29" key="new project wizard" timestamp="1632300279286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-48" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1632300279286" />
   </component>
 </project>

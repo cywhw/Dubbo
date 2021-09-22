@@ -1,7 +1,6 @@
 package service.impl;
 
 import pojo.UserAddress;
-import service.UserService;
 
 import java.util.Arrays;
 import java.util.List;
